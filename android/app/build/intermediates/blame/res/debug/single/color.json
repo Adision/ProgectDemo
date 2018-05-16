@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/Apple/Desktop/React/ProgectDemo/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/Apple/.android/build-cache/e6fc50ba2d4928a21a8c18419bb2bf97b18b88a9/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/Apple/Desktop/React/ProgectDemo/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/Apple/.android/build-cache/e6fc50ba2d4928a21a8c18419bb2bf97b18b88a9/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Apple/Desktop/React/ProgectDemo/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/Apple/.android/build-cache/e6fc50ba2d4928a21a8c18419bb2bf97b18b88a9/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Apple/Desktop/React/ProgectDemo/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/Apple/.android/build-cache/e6fc50ba2d4928a21a8c18419bb2bf97b18b88a9/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Apple/Desktop/React/ProgectDemo/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/Apple/.android/build-cache/e6fc50ba2d4928a21a8c18419bb2bf97b18b88a9/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/Apple/Desktop/React/ProgectDemo/android/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/Apple/.android/build-cache/e6fc50ba2d4928a21a8c18419bb2bf97b18b88a9/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/Apple/Desktop/React/ProgectDemo/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/Apple/.android/build-cache/e6fc50ba2d4928a21a8c18419bb2bf97b18b88a9/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/Apple/Desktop/React/ProgectDemo/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/Apple/.android/build-cache/e6fc50ba2d4928a21a8c18419bb2bf97b18b88a9/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/Apple/Desktop/React/ProgectDemo/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/Apple/.android/build-cache/e6fc50ba2d4928a21a8c18419bb2bf97b18b88a9/output/res/color/switch_thumb_material_dark.xml"
+    }
+]

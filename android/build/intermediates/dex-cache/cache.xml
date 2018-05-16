@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Apple/Desktop/React/ProgectDemo/android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="1a1b089ab89e475670dcbad4176c70c521252539">
+        <dex dex="/Users/Apple/Desktop/React/ProgectDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3917dad4f51774644478a4cf355930aae7e11db3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Apple/Desktop/React/ProgectDemo/android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="/Users/Apple/Desktop/React/ProgectDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0ec7f0c438e2d6e1be8027a782a243675383ba37/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+#Wed Nov 22 15:11:50 CST 2017
+base.0=/Users/Apple/Desktop/React/ProgectDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3917dad4f51774644478a4cf355930aae7e11db3
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/Apple/Desktop/React/ProgectDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0ec7f0c438e2d6e1be8027a782a243675383ba37/classes.dex
+base.1=/Users/Apple/Desktop/React/ProgectDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0ec7f0c438e2d6e1be8027a782a243675383ba37
+file.0=/Users/Apple/Desktop/React/ProgectDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3917dad4f51774644478a4cf355930aae7e11db3/classes.dex
