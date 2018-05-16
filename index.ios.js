@@ -13,11 +13,12 @@ import {
 } from 'react-native';
 
 import PIconMain from './Component/PIconMain'
+import App from './app'
 
 export default class ProgectDemo extends Component {
   render() {
     return (
-      <PIconMain/>
+      <App />
     );
   }
 }

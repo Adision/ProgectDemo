@@ -16,11 +16,10 @@ import {
 import Navigator from 'react-native-deprecated-custom-components'
 import ScrollTableView,{DefaultTabBar,ScrollableTabBar} from 'react-native-scrollable-tab-view'
 
-import PHome from './PHome'
-import PFind from './PFind'
+import PHome from './Home/PHome'
+import PFind from './Find/PFind'
 import PMessage from './PMessage'
-import PMe from './PMe'
-import PTabBar from './PTabBar'
+import PMe from './Me/PMe'
 import PIconTabBar from "./PIconTabBar";
 
 export default class PIconMain extends Component {
